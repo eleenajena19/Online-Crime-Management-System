@@ -1,5 +1,5 @@
 # Online-Crime-Management-System
-This Online Crime Management Project has been done by Manash Jyoti Baruah.
+This Online Crime Management Project has been done by Eleena Jena.
 
 #Please refer to the new version here: 
 https://github.com/ManashJBofficial/Online-Crime-Management-System-2.0
